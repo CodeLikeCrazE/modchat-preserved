@@ -35,7 +35,7 @@
     "nedb": "^1.8.0",
     "node-fetch": "^2.6.1",
     "socket.io": "^2.4.0",
-    "uws": "^10.148.1"
+    "uws": "^10.148.2"
   },
   "devDependencies": {
     "@now/node": "^1.6.1",
